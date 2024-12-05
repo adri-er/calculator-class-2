@@ -1,4 +1,4 @@
-# Project Title
+#  CALCULATOR
 
 Simple overview of use/purpose.
 
