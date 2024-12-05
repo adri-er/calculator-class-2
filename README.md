@@ -1,4 +1,4 @@
-# Project Title
+#  CALCULATOR
 
 Simple overview of use/purpose.
 
@@ -43,13 +43,8 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Version History
 
-* 0.3
-    * Feature Multiplication
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
-    * Initial Release
+    * Addition method
 
 ## License
 
